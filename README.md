@@ -2,7 +2,7 @@
 
 Welcome to **Bolder Learner Tech School**! We are a pioneering institution dedicated to empowering the next generation of innovators through the transformative power of code. Our mission is to nurture the growth and development of young learners, aged 4 to 17, by equipping them with the skills and knowledge to master software development (among other modern skillsets) and thrive in the digital age. 
 
-We are not just limited to code, we use code to nurture a student all-round. We have a solid plan on how a child can grow to become a valuable contributor to the digital market and talent pool. As is the case with mastering code, we focus on **Problem Solving and Logic Building**.
+We are not just limited to code; we use code to nurture a student all-round. We have a solid plan on how a child can grow to become a valuable contributor to the digital market and talent pool. As is the case with mastering code, we focus on **Problem Solving and Logic Building** from a young age.
 
 ---
 
