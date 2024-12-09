@@ -1,14 +1,14 @@
 # Bolder Learner Tech School
 
-Welcome to **Bolder Learner Tech School**! We are a pioneering institution dedicated to empowering the next generation of innovators through the transformative power of code. Our mission is to nurture the growth and development of young learners, aged 4 to 17, by equipping them with the skills and knowledge to master software development (among other modern skillsets) and thrive in the digital age. 
+Welcome to **Bolder Learner Tech School**! We are a pioneering institution dedicated to empowering the next generation of innovators through the transformative power of code. Our mission is to nurture the growth and development of young learners, aged 4 to 17, by equipping them with the skills and knowledge to master modern tech skills and thrive in the digital age.
 
-We are not just limited to code; we use code to nurture a student all-round. We have a solid plan on how a child can grow to become a valuable contributor to the digital market and talent pool. As is the case with mastering code, we focus on **Problem Solving and Logic Building** from a young age.
+We are not just limited to code; we use code to nurture a student all-round. We have a solid plan on how a child can grow to become a valuable contributor to the digital market and talent pool. As is the case with mastering code, we focus on **Problem Solving** and **Logic Building** from a young age.
 
 ---
 
 ## 🌟 Our Vision
 
-At Bolder Learner Tech School, we believe that every child has the potential to become a creative problem solver. By integrating software development into our curriculum, we inspire students to explore, build, and innovate in an environment tailored to their unique learning needs.
+At Bolder Learner Tech School, we believe that every child has the potential to become a creative problem solver. By integrating modern tech skills into our curriculum, we inspire students to explore, build, and innovate in an environment tailored to their unique learning needs.
 
 ---
 
@@ -27,7 +27,7 @@ Whether you’re in Nairobi or across the globe, we tailor our programs to fit y
 
 ## 🛠️ What We Teach
 
-At Bolder Learner Tech School, our students learn a variety of valuable skills, with a strong focus on **full-stack software development** (at the moment). Here’s a glimpse of what our curriculum covers:
+At Bolder Learner Tech School, our students learn a variety of valuable skills, with a strong focus on modern tech skills. Here’s a glimpse of what our curriculum covers:
 
 ### Front-End Development
 
@@ -51,7 +51,7 @@ At Bolder Learner Tech School, our students learn a variety of valuable skills, 
 - **Mobile Development**: Using tools like Flutter or React Native.
 - **Game Development**: Creating interactive games with Unity and C#.
 - **AI & Machine Learning Basics**: Exploring cutting-edge technologies.
-- **Robotics**: The development of the physical world.
+- **Physical Computing And Robotics**: The development of the physical world.
 - **Problem Solving & Logic Building**: The foundation of all great developers.
 
 ---
